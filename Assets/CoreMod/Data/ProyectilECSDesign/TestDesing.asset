@@ -13,5 +13,4 @@ MonoBehaviour:
   m_Name: TestDesing
   m_EditorClassIdentifier: 
   ID: Test
-  ExplotionGraphAsset: {fileID: 8926484042661614526, guid: 118a89c9763f0dc408102b8814b4ec3c, type: 3}
-  HitGraphAsset: {fileID: 8926484042661614526, guid: f081a00bd5c3ac24d8fb17d2cf1ef1e7, type: 3}
+  ExplotionVisualEffectObject: {fileID: 4793324309289365824, guid: 926c75b076a32694ea5b8292e496435d, type: 3}
