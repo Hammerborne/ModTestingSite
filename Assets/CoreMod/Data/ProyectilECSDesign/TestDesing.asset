@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8fefcd76f631ee8479e16d0078f6cb6b, type: 3}
+  m_Name: TestDesing
+  m_EditorClassIdentifier: 
+  ID: Test
+  ExplotionGraphAsset: {fileID: 8926484042661614526, guid: 118a89c9763f0dc408102b8814b4ec3c, type: 3}
+  HitGraphAsset: {fileID: 8926484042661614526, guid: f081a00bd5c3ac24d8fb17d2cf1ef1e7, type: 3}
